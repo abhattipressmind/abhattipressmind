@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Ahsan Nawaz Bhatti — Full-Stack Web Developer @ Pressmind
+# 👋 Hi! I'm Ahsan Nawaz Bhatti — Web Developer @ Pressmind
 
 I specialize in building high-performance, user-centric websites and applications using technologies like **React.js**, **PHP**, and **WordPress**. I’m passionate about crafting seamless user experiences and integrating modern front-end interfaces with robust back-end systems.
 
