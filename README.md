@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Ahsan Nawaz Bhatti — Freelance Web Developer @ Pressmind
+# 👋 Hi! I'm Ahsan Nawaz Bhatti — Freelance Web Developer @ Pressmind (Feb 2024 - July 2024 · 2 yrs 6 months)
 
 I specialize in building high-performance, user-centric websites and applications using technologies like **React.js**, **PHP**, and **WordPress**. I’m passionate about crafting seamless user experiences and integrating modern front-end interfaces with robust back-end systems.
 
@@ -57,7 +57,7 @@ I specialize in building high-performance, user-centric websites and application
 
 ## 🖨️ Contact Me
 
-- 📧 Email: [ahsannawazbhatti07@gmail.com](mailto:ahsannawazbhatti07@gmail.com)  
+- 📧 Email: [bhatti421101@gmail.com](mailto:bhatti421101@gmail.com)  
 
 ---
 
